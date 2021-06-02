@@ -1,0 +1,5 @@
+Name                          Username                      Email_address                 Phone_number                  Password                      Security_Question                  Security_Answer               
+Harshpreet Singh Sandhu       harsh99sandhu                 harsh99sandhu@yahoo.in        7665591889                    harsh321                      What is your favourite colour?     red
+Aarohi Mangal                 aarohimangal                  aarohimangal@gmail.com        1234557890                    aarohi321                     What is your favourite colour?     black
+Naman Sharma		      namans		 	    namans@gmail.com		  1239921999			naman321		      What is your favourite colour?     blue
+Neelesh Gutpa		      neeleshg		 	    neeleshg@gmail.com		  1239921949			neelesh123		      What is your favourite colour?     yellow
